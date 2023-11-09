@@ -5,4 +5,3 @@
     B --> C(Server Response 201)
     C -->|Js code make a change in the notes list, adding my note| D[I can see my note :D]
 
-```
